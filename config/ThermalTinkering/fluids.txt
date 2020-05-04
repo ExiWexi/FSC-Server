@@ -40,9 +40,7 @@ liquidtritium                                     ([no block])                  
 liquidfusionfuel                                  ([no block])                                                                     = Liquid D-T Fuel
 liquidlithium                                     ([no block])                                                                     = Liquid Lithium
 heavywater                                        ([no block])                                                                     = Heavy Water
-steam                                             (immersivetech:fluidsteam)                                                       = Steam
-liquidcoralium                                    (abyssalcraft:cwater)                                                            = Liquid Coralium
-liquidantimatter                                  (abyssalcraft:antiwater)                                                         = Liquid Antimatter
+steam                                             (railcraft:steam)                                                                = Steam
 candied_water                                     (aoa3:candied_water)                                                             = Candied Water
 baronyte                                          (tconstruct:molten_baronyte)                                                     = Molten Baronyte
 blazium                                           (tconstruct:molten_blazium)                                                      = Molten Blazium
@@ -62,7 +60,7 @@ honey                                             (biomesoplenty:honey)         
 blood                                             (biomesoplenty:blood)                                                            = Blood
 poison                                            (biomesoplenty:poison)                                                           = Poison
 hot_spring_water                                  (biomesoplenty:hot_spring_water)                                                 = Hot Spring Water
-creosote                                          (immersiveengineering:fluidcreosote)                                             = Creosote Oil
+creosote                                          (railcraft:creosote)                                                             = Creosote Oil
 coal                                              ([no block])                                                                     = Liquifacted Coal
 crude_oil                                         (thermalfoundation:fluid_crude_oil)                                              = Crude Oil
 refined_oil                                       ([no block])                                                                     = Naphtha
@@ -201,3 +199,7 @@ cyanite                                           (bigreactors:cyanite)         
 fuelcolumn                                        ([no block])                                                                     = fluid.fuelcolumn
 pure_metal                                        ([no block])                                                                     = Pure Metal
 astralsorcery.liquidstarlight                     (astralsorcery:fluidblockliquidstarlight)                                        = Liquid Starlight
+astral_starmetal                                  (jaopca:fluid_moltenastralstarmetal)                                             = Molten Astral Starmetal
+draconium                                         (jaopca:fluid_moltendraconium)                                                   = Molten Draconium
+magnetite                                         (jaopca:fluid_moltenmagnetite)                                                   = Molten Magnetite
+mithril                                           (jaopca:fluid_moltenmithril)                                                     = Molten Mithril
